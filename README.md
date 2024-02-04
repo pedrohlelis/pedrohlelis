@@ -1,7 +1,7 @@
 ### Olá! Me chamo Pedro Lelis
 
 - 🔭 Hoje trabalho com fullstack! 
-- 🌱 Estudando Node.js
+- 🌱 Estudando dotnet
 - 📫 Contato: pedrohenri.lelis@gmail.com
 
   <div style="display: inline_block"><br>
