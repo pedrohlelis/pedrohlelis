@@ -4,7 +4,7 @@
 -  Contact: pedrohenri.lelis@gmail.com
 -  LinkedIn: <a href="https://www.linkedin.com/in/pedro-lelis">linkedin.com/in/pedro-lelis</a>
  <div style="display: inline_block"><br>
-  <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+  <img align="center" alt="Pedro-Java" height="30" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
   <img align="center" alt="Pedro-.Net" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg">
   <img align="center" alt="Pedro-SQL" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Sql_data_base_with_logo.svg">
   <img align="center" alt="Pedro-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
