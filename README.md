@@ -15,5 +15,5 @@
 </div>
 
 <!-- BEGIN YOUTUBE-CARDS -->
-[![Contador no IAS](https://ytcards.demolab.com/?id=SSuMUDicSsM&title=Contador+No+IAS&lang=en&timestamp=1725717641&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=317 "Contador no IAS")](https://www.youtube.com/watch?v=SSuMUDicSsM&list=PLyt32F0BzAGSS2JdX_6KPYjGkEOLdjXCh)
+[![Contador no IAS](https://ytcards.demolab.com/?id=SSuMUDicSsM&title=Contador+No+IAS&lang=en&timestamp=1725717641&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=415 "Contador no IAS")](https://www.youtube.com/watch?v=SSuMUDicSsM&list=PLyt32F0BzAGSS2JdX_6KPYjGkEOLdjXCh)
 <!-- END YOUTUBE-CARDS -->
