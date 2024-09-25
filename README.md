@@ -3,16 +3,6 @@
 -  fullstack developer 
 -  Contact: pedrohenri.lelis@gmail.com
 -  LinkedIn: <a href="https://www.linkedin.com/in/pedro-lelis">linkedin.com/in/pedro-lelis</a>
- <div style="display: inline_block"><br>
-  <img align="center" alt="Java" height="30" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-  <img align="center" alt=".Net" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg">
-  <img align="center" alt="Pedro-SQL" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Sql_data_base_with_logo.svg">
-  <img align="center" alt="Pedro-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Pedro-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Pedro-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Pedro-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Pedro-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-</div>
 
 ### 🧰 Languages and Tools
 
@@ -32,13 +22,14 @@
 
 #
 
-### 📺 Demos e Hobbies
+### 📺 Demos & Hobbies
 
 <!-- BEGIN YOUTUBE-CARDS -->
 
-[![Contador no IAS](https://ytcards.demolab.com/?id=SSuMUDicSsM&title=Contador+No+IAS&lang=en&timestamp=1725717641&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=415 "Contador no IAS")](https://www.youtube.com/watch?v=SSuMUDicSsM&list=PLyt32F0BzAGSS2JdX_6KPYjGkEOLdjXCh)
-
-[![Projeto smartcity Segunda Etapa](https://ytcards.demolab.com/?id=TFhT6AC&title=Contador+No+IAS&lang=en&timestamp=1725717641&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=415 "Projeto smartcity Segunda Etapa")](https://www.youtube.com/watch?v=TFhT6AC-nyc)
-
-[![Demo1 Projeto WebAPI MVC](https://ytcards.demolab.com/?id=SSuMUDicSsM&title=Contador+No+IAS&lang=en&timestamp=1725717641&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=415 "Contador no IAS")](https://www.youtube.com/watch?v=SSuMUDicSsM&list=PLyt32F0BzAGSS2JdX_6KPYjGkEOLdjXCh)
+[![Contador no IAS](https://ytcards.demolab.com/?id=SSuMUDicSsM&title=Contador+No+IAS&lang=en&timestamp=1725717641&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=415 "Contador no IAS")](https://www.youtube.com/watch?v=SSuMUDicSsM&list=PLyt32F0BzAGSS2JdX_6KPYjGkEOLdjXCh) 
+[![Projeto smartcity Segunda Etapa](https://ytcards.demolab.com/?id=TFhT6AC-nyc&title=Projeto+smartcity+Segunda+Etapa&lang=en&timestamp=1725717641&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=415 "Projeto smartcity Segunda Etapa")](https://www.youtube.com/watch?v=TFhT6AC-nyc)
+[![Demo1 Projeto WebAPI MVC](https://ytcards.demolab.com/?id=uvrD627f2wQ&title=Demo1+Projeto+WebAPI+MVC&lang=en&timestamp=1725717641&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=415 "Demo1 Projeto WebAPI MVC")](https://www.youtube.com/watch?v=SSuMUDicSsM&list=PLyt32F0BzAGSS2JdX_6KPYjGkEOLdjXCh)
+[![My Allosaurus fragilis 3D model](https://ytcards.demolab.com/?id=GDUX1tNcIxw&title=My+Allosaurus+fragilis+3D+model&lang=en&timestamp=1725717641&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=415 "My Allosaurus fragilis 3D model")](https://www.youtube.com/watch?v=GDUX1tNcIxw)
+[![Procedural Animation WIP UE5](https://ytcards.demolab.com/?id=DVQEEdFjTzc&title=Procedural+Animation+WIP+UE5&lang=en&timestamp=1725717641&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=415 "Procedural Animation WIP UE5")](https://www.youtube.com/watch?v=DVQEEdFjTzc)
+[![Rex Model WIP](https://ytcards.demolab.com/?id=U9LHf1l6x1o&title=Rex+Model+WIP+&lang=en&timestamp=1725717641&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=415 "Rex Model WIP")](https://youtu.be/U9LHf1l6x1o)
 <!-- END YOUTUBE-CARDS -->
