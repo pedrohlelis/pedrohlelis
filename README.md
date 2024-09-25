@@ -1,5 +1,7 @@
 ### Pedro Lelis
 
+I enjoy learning new stuff!
+
 -  fullstack developer 
 -  Contact: pedrohenri.lelis@gmail.com
 -  LinkedIn: <a href="https://www.linkedin.com/in/pedro-lelis">linkedin.com/in/pedro-lelis</a>
