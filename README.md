@@ -23,15 +23,15 @@ I enjoy learning new stuff!
 <br />
 #
 
+<!-- BEGIN YOUTUBE-CARDS -->
 ### ✨ Destaques ✨
 
 [![Demo Glimpse](https://ytcards.demolab.com/?id=BCI66fvTARg&title=Demo+Glimpse&lang=en&timestamp=1725717641&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=415 "Rex Model WIP")](https://www.youtube.com/watch?v=BCI66fvTARg)
-
 #
 
 ### 📺 Demos & Hobbies
 
-<!-- BEGIN YOUTUBE-CARDS -->
+
 
 [![Very early demo EMAIL SENDER for Glimpse](https://ytcards.demolab.com/?id=ZsKv8EwrXEs&title=Very+early+demo+EMAIL+SENDER+for+Glimpse&lang=en&timestamp=1725717641&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=415 "Very early demo EMAIL SENDER for Glimpse")](https://youtu.be/ZsKv8EwrXEs)
 [![Contador no IAS](https://ytcards.demolab.com/?id=SSuMUDicSsM&title=Contador+No+IAS&lang=en&timestamp=1725717641&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=415 "Contador no IAS")](https://www.youtube.com/watch?v=SSuMUDicSsM&list=PLyt32F0BzAGSS2JdX_6KPYjGkEOLdjXCh) 
