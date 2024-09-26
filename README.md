@@ -21,14 +21,13 @@ I enjoy learning new stuff!
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <img align="center" alt="Pedro-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
 <br />
-
-#
-
 #
 
 ### ✨ Destaques ✨
 
 [![Demo Glimpse](https://ytcards.demolab.com/?id=BCI66fvTARg&title=Demo+Glimpselang=en&timestamp=1725717641&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=415 "Rex Model WIP")](https://www.youtube.com/watch?v=BCI66fvTARg)
+
+#
 
 ### 📺 Demos & Hobbies
 
