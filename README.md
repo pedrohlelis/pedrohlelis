@@ -24,6 +24,12 @@ I enjoy learning new stuff!
 
 #
 
+#
+
+### ✨ Destaques ✨
+
+[![Demo Glimpse](https://ytcards.demolab.com/?id=BCI66fvTARg&title=Demo+Glimpselang=en&timestamp=1725717641&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=415 "Rex Model WIP")](https://www.youtube.com/watch?v=BCI66fvTARg)
+
 ### 📺 Demos & Hobbies
 
 <!-- BEGIN YOUTUBE-CARDS -->
