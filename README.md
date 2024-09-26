@@ -22,7 +22,7 @@ I enjoy learning new stuff!
 <img align="center" alt="Pedro-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
 <br />
 #
-
+<hr>
 <!-- BEGIN YOUTUBE-CARDS -->
 ### ✨ Destaques ✨
 
