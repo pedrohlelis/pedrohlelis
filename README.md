@@ -2,6 +2,8 @@
 
 I enjoy learning new stuff!
 
+Currently on my 4th Semester
+
 -  fullstack developer 
 -  Contact: pedrohenri.lelis@gmail.com
 -  LinkedIn: <a href="https://www.linkedin.com/in/pedro-lelis">linkedin.com/in/pedro-lelis</a>
