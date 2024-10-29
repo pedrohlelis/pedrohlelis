@@ -26,7 +26,7 @@ Currently on my 4th Semester
 
 #
 ### ✨ Destaques ✨
-[![Demo Glimpse](https://ytcards.demolab.com/?id=BCI66fvTARg&title=Demo+Glimpse&lang=en&timestamp=1725717641&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=261 "Rex Model WIP")](https://www.youtube.com/watch?v=BCI66fvTARg)
+[![Demo Glimpse](https://ytcards.demolab.com/?id=BCI66fvTARg&title=Demo+Glimpse&lang=en&timestamp=1725717641&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=261 "Demo Glimpse")](https://www.youtube.com/watch?v=BCI66fvTARg)
 #
 ### 📺 Demos & Hobbies
 [![Very early demo EMAIL SENDER for Glimpse](https://ytcards.demolab.com/?id=ZsKv8EwrXEs&title=Very+early+demo+EMAIL+SENDER+for+Glimpse&lang=en&timestamp=1725717641&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=53 "Very early demo EMAIL SENDER for Glimpse")](https://youtu.be/ZsKv8EwrXEs)
